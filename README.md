@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/sina-taamoli-a49b44b6/))
 <!--
 **sinataamoli/SinaTaamoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
