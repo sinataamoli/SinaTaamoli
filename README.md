@@ -1,6 +1,14 @@
 ## Hi there 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sina-taamoli-a49b44b6/)
+Welcome to my GitHub!
+
+I'm a **PhD candidate in Physics** at University of California, Riverside. My research is focused on Large Scale Structures and their impact on Galaxy Evolution. 
+
+Here on GitHub, I share **code**, **notebooks**, and **projects** related to my research. I also post **teaching materials** from my courses in **Data Science**, **Machine Learning**, **Data Visualization**, and **Computer Graphics** taught at **UC Riverside**.  
+
+Feel free to explore, fork, or connect!
+
 <!--
 **sinataamoli/SinaTaamoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
