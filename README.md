@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sina-taamoli-a49b44b6/)
+
 Welcome to my GitHub!
 
 I'm a **PhD candidate in Physics at the University of California, Riverside**, where my research focuses on **Large-Scale Structures** and their impact on **Galaxy Evolution**.
