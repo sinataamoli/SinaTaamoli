@@ -4,11 +4,13 @@
 
 Welcome to my GitHub!
 
-I'm a **PhD candidate in Physics at the University of California, Riverside**, where my research focuses on **Large-Scale Structures** and their impact on **Galaxy Evolution**.
+I’m an **Applied Scientist at OnSport AI** with a **PhD in Physics from the University of California, Riverside**. My work spans scientific data analysis, computer vision, machine learning, and software systems that turn complex data into useful insights.
 
-Here on GitHub, I share **code** and **notebooks** related to my research, along with **teaching materials** from courses I’ve taught in **Data Science**, **Machine Learning**, **Data Visualization**, and **Computer Graphics** at **UC Riverside**.
+My doctoral research studied large-scale structure and galaxy evolution. I also worked with astronomical observations and instrumentation, including data from the Keck Observatory and the James Webb Space Telescope.
 
-Feel free to explore, fork, or connect!
+On GitHub, I share research code, notebooks, and teaching materials in data science, machine learning, data visualization, and computer graphics. My current industry work focuses on production AI systems and real-time sports data; company-specific code and data are not posted here.
+
+Feel free to explore my projects or connect with me on LinkedIn.
 
 <!--
 **sinataamoli/SinaTaamoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
